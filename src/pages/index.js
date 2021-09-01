@@ -14,9 +14,9 @@ const IndexPage = () => (
         <section class="showcase">
 
           <div class="content">
-                <h1>Shoot For The Stars</h1>
-                <h3>Full screen video landing page</h3>
-                <a href="#about" class="btn">Read More</a>
+                <h1>Cristian Molinas</h1>
+                <h3>Personal trainer</h3>
+                <a href="#about" class="btn">Contáctame</a>
           </div>
         </section>
 
@@ -41,14 +41,11 @@ const IndexPage = () => (
         </section>
 
         <section id="about">
-          <h1>About</h1>
+          <h1>Contácto</h1>
                 <p>
-                  This is a landing page with a full screen video background. Feel free to
-                  use this landing page in your projects. keep adding sections, change the
-                  video, content , etc
                 </p>
 
-          <h2>Follow Me On Social Media</h2>
+          <h2>Seguíme en mis redes sociales</h2>
 			
         </section>
 
