@@ -42,10 +42,8 @@ const IndexPage = () => (
 
         <section id="about">
           <h1>Contácto</h1>
-                <p>
-                </p>
 
-          <h2>Seguíme en mis redes sociales</h2>
+          <h2>Mis redes</h2>
 			
         </section>
 

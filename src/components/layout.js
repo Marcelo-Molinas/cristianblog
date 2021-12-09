@@ -39,9 +39,9 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()}, Marcelo Molinas
+          © {new Date().getFullYear()}, Dev by 
           {` `}
-          <a href="https://github.com/marcelo3475">Developer</a>
+          <a href="https://github.com/marcelo3475">marcelo3475</a>
         </footer>
       </div>
     </>
