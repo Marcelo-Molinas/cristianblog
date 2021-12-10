@@ -115,3 +115,25 @@ h3 {
 .social a {
 	margin: 0 5px;
 }
+
+.spotlight .button {
+	background-color: rgb(7 94 84);
+	box-shadow: inset 0 0 0 100px hsla(0, 0%, 100%, 0);
+	min-width: 100%;
+	font-size: 15px;
+	transition: all 0.15s ease-out;
+	line-height: 38px;
+	padding: 0 20px;
+	text-decoration: none !important;
+	display: inline-block;
+	text-align: center;
+	border-radius: 5px;
+	cursor: pointer;
+	box-sizing: border-box;
+	white-space: nowrap;
+	user-select: none;
+	font-size: 14px;
+	border: 1px solid #333;
+	color: #fff;
+	transition: all 0.15s ease-out;
+}
